@@ -7,8 +7,10 @@ branding:
 meta:
   title: " | Vector37.com - Fostering the Internet Renaissance"
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Vector37
+  link: https://vector37.com
+- text: Mint Kit
+  link: https://mintkit.io
 footer:
   copyright: "&copy; Copyright {{ year }} Vector37. All rights reserved."
   links:
@@ -16,3 +18,7 @@ footer:
       link: https://vector37.com
     - text: Mint Kit
       link: https://mintkit.io
+edit:
+  repo: "https://github.com/Vector37DAO/v37docs"
+  branch: master
+  label: Edit on GitHub
