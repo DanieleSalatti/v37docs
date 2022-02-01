@@ -1,0 +1,18 @@
+input: .
+output: .retype
+url: docs.vector37.com
+branding:
+  title: Vector37 DAO
+  label: Docs
+meta:
+  title: " | Vector37.com - Fostering the Internet Renaissance"
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }} Vector37. All rights reserved."
+  links:
+    - text: Vector37
+      link: https://vector37.com
+    - text: Mint Kit
+      link: https://mintkit.io
