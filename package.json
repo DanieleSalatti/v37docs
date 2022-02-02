@@ -1,5 +1,5 @@
 {
   "scripts": {
     "retype-do-deploy": "npm install retypeapp --global && retype build"
-  },
+  }
 }
