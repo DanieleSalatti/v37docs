@@ -1,8 +1,5 @@
 {
   "scripts": {
-    "retype-build": "retype build"
+    "retype-do-deploy": "npm install retypeapp --global && retype build"
   },
-  "dependencies": {
-    "retype": "^0.2.0"
-  }
 }
