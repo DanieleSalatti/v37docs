@@ -1,5 +1,5 @@
 input: .
-output: ./build
+output: ./public
 url: docs.vector37.com
 branding:
   title: Vector37 DAO
